@@ -1,6 +1,8 @@
 # iExpenses
 iExpenses is a simple iOS app for tracking expenses. It allows users to add, edit, and delete expenses. The app is built with SwiftUI and uses UserDefaults to store expense data.
 
+https://github.com/Ktamim98/iExpenses/assets/124142522/ef1ab8e3-b92e-48f5-9741-bae1006da9bd
+
 
 ## Features:
 
